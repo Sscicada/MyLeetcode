@@ -1,2 +1,2 @@
 # MyLeetcode
-## 这是我的Leetcode刷题记录
+我的leetcode之旅开始于2020年10月3日
